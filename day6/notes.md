@@ -53,7 +53,6 @@ Once the target temperature is reached, the simulation stops.
 ## Digital Twin Concept
 
 The model now has a desired operating condition.
-
 Instead of simply calculating temperature, the digital twin can determine whether the simulated system has reached its target state.
 
 ## Day 6 Outcome
